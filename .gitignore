@@ -1,0 +1,10 @@
+# Logs
+*.log
+repl.log
+
+# Binaries
+pokedexcli
+*.exe
+
+# Go build cache
+.cache/
